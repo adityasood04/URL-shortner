@@ -1,0 +1,16 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "A basic url shortner service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Sood",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.17.1",
+    "nodemon": "^3.1.10"
+  }
+}
